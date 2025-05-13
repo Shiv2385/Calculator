@@ -13,4 +13,3 @@ A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScri
 - Supports basic arithmetic operations
 - Easy-to-use button interface
 - Clean and modern UI
-- Keyboard input support (optional, if implemented)
